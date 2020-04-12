@@ -1,4 +1,5 @@
 #Demo Project README
 This is a simple README.md file
-
-New Line
+##Introduction
+##Purpose
+##How To Contribute
