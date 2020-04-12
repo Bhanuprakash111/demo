@@ -1,5 +1,5 @@
 #Demo Project README
-This is a simple README.md file
 ##Introduction
 ##Purpose
+##Deployment
 ##How To Contribute
