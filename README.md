@@ -1,5 +1,5 @@
 # Demo Project
-This is a simple READEME file. Adding a line for rebassing, more changes from myfeature branch too 
+This is a simple READEME file.Updating an Emergency fix after stashing
 ## Introduction
 Introducing Difftool
 ## Purpose
