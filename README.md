@@ -7,4 +7,4 @@ Introducing Difftool
 ## How To Contribute
 Please fork this repository and then issue pull requests for Review
 ### Copyright
-copyright 2020 Bhanuprakash
+copyright 2020 Bhanuprakash , All rights reserved
